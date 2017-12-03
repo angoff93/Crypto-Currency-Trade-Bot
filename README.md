@@ -1,0 +1,2 @@
+# Crypto-Currency-Trade-Bot
+This will be a Trading Bot that will be used by my friend who has been getting 5-15% a day trading. I have built a small video game using Unity. I prefer working in python since I have done some work with it and SQL. I tried getting python to work into Apache but got distracted and never finished. I would say my code level is beginner to moderate but I am willing to learn. If anyone thinks C++ or C# would be a better language to build this bot in I am interested to learn either but know that it comes with a lot of work. 
